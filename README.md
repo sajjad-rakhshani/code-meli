@@ -7,14 +7,13 @@ validate iranian national code
 
 Install using composer:
 
-‌```sh
+‌```
 composer require sajjad-rakhshani/code-meli
 ‌```
 
 # Example
 
 ‌```php
-
 require __DIR__.'/vendor/autoload.php';
 
 use \SajjadRakhshani\CodeMeli\CodeMeli;
