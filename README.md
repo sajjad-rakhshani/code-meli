@@ -7,7 +7,7 @@ validate iranian national code
 
 Install using composer:
 
-‌```
+‌```sh
 composer require sajjad-rakhshani/code-meli
 ‌```
 
