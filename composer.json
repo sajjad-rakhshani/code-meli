@@ -1,0 +1,29 @@
+{
+  "name" : "sajjad-rakhshani/code-meli",
+  "description" : "a php library to validate iranian national code",
+  "keywords" : [
+    "CodeMeli",
+    "iran",
+    "code meli",
+    "کد ملی",
+    "iranian national code"
+  ],
+  "homepage": "http://sajjadrakhshani.ir/CodeMeli",
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php" : "^7.1.3|^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SajjadRakhshani\\CodeMeli\\" : "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "sajjad rakhshani",
+      "email": "sajjad.rakhsjani@gmail.com",
+      "homepage": "http://sajjadrakhshani.ir"
+    }
+  ]
+}
