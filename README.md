@@ -13,7 +13,7 @@ composer require sajjad-rakhshani/code-meli
 
 # Example
 
-‌```php
+‌```
 <?php
 
 require __DIR__.'/vendor/autoload.php';
